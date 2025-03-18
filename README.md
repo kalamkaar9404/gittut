@@ -1,2 +1,0 @@
-# gittut
-tutorial
